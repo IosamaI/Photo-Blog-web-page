@@ -1,9 +1,6 @@
 # Photo Blog
 
-![Screenshot 2025-01-25 010747](https://github.com/user-attachments/assets/01fa89c0-ba87-4b00-ab69-0033e3b4a770)
-
-
-
+![Screenshot 2025-01-25 011801](https://github.com/user-attachments/assets/5d283b48-6ae1-4b4a-917f-0bfa28948d1a)
 
 ## Description
 The **Photo Blog** project is a simple and visually appealing web page that showcases a collection of images in a blog-like format. The page is styled with CSS to create an elegant design and includes a hover effect on images for a more interactive user experience. This project is ideal for beginners who want to learn the basics of HTML and CSS while creating an attractive photo gallery.
