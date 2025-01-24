@@ -1,0 +1,33 @@
+section>img {
+    display: inline;
+    height: auto;
+    width: 30%;
+    margin: calc(10% / 6);
+    padding: auto;
+    image-rendering: auto;
+}
+
+body {
+    background-color: rgb(5, 5, 5, 0.9);
+}
+
+h2 {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 2em;
+    color: #fcba03;
+    text-shadow: 2px 2px 4px rgba(255, 255, 251, 0.518);
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #848080cf;
+    margin-bottom: 20px;
+}
+
+img:hover {
+    border-color: #fbfcf0;
+    box-shadow: 0 0.5em 0.5em -0.4em #fefff9;
+    transition: margin-bottom 0.01s;
+    margin-bottom: 0.40em;
+    cursor: pointer;
+
+}
